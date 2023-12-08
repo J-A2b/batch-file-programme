@@ -1,8 +1,7 @@
-REM script by Vitag https://rebrand.ly/VitagYouTube
+
 echo off
 cls
-title Ste@ler - Software by Vitag - Copyrights Vitag (https://rebrand.ly/VitagYouTube)
-echo Copyrights Vitag (https://rebrand.ly/VitagYouTube)
+title Ste@ler
 echo I am not responsible for your actions, in any case.
 echo Use my software only on computers that you have the owner's agreement.
 echo Thank you for trusting me using my software.
